@@ -1,0 +1,5 @@
+./StrategyPattern_concept/build*/
+.cache/
+.git/
+.vscode/
+.DS_Store
